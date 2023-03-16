@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @th-sakib
-- 👀 I’m interested in Programming, Web developing, Hacking
+- 👀 I’m interested in Programming, Web developing.
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me by messaging me in whatsapp: 01797951903
 
