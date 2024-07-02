@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @th-sakib
 - 👀 I’m interested in Programming, Web developing.
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me by messaging me in whatsapp: 01797951903
+- 📫 How to reach me? by sending e-mail: mdthamidulhasansakib@gmail.com
 
 <!---
 th-sakib/th-sakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
