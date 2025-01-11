@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Thamidul Hasan Sakib</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 # 💫 About Me:
 💫 About Me:<br><br>🔭 I’m currently working on enhancing my skills in web development and diving deeper into advanced features of Next.js.<br><br>❤️ I am passionate about Software Engineering and building impactful solutions.<br><br>💻 I love exploring new technologies and sharing knowledge with others.<br><br>🌱 I’m currently learning Laravel to sharpen my backend development skills.<br><br>💡 Fun Fact: My bookmark collection is packed with tools and resources that simplify frontend development!<br><br>📫 How to reach me: mdthamidulhasansakib@gmail.com
 
